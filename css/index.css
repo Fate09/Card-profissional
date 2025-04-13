@@ -9,18 +9,19 @@ section{
    border-radius: 2%;
 }
 section img{
-    margin-left: 26%;
+    margin-left: 29%;
     margin-top: 10vh;
     border-radius: 200%;
-    max-width: 50%;
+    min-width: 40%;
 }
 section h1{
     margin-left: 48%;
-    margin-top: 10vh;
+    margin-top: 5vh;
 }
 section p{
     text-align: center;
     color: #ffffff;
+    margin-top: 2vh;
   
 }
 section button{
@@ -30,4 +31,5 @@ section button{
     background-color: #ffd900;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     border-radius: 10%;
+    margin-top: 10vh;
 }
